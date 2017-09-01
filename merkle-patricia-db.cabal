@@ -1,5 +1,5 @@
 name: merkle-patricia-db
-version: 0.0.1
+version: 0.1.0
 cabal-version: 1.10
 build-type: Simple
 author: Jamshid
