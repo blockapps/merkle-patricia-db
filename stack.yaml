@@ -1,0 +1,9 @@
+resolver: lts-7.18
+compiler: ghc-8.0.2
+
+packages:
+  - '.'
+
+extra-deps:
+ - ethereum-rlp-0.1.0
+ - nibblestring-0.0.3
